@@ -25,3 +25,4 @@ sell items between “Zalando” and “AboutYou”, the outcome is
 targeted to enhance the overall F1 matching score.
 
 ### Keywords : “TF-IDF”, “Cosine Similarity”, “NGrams”, “String Matching”, “Product Matching”, “Text Matching”
+![1](https://github.com/Karincheong/August-2020-WaiLEARN-Female-Employment-Analysis/assets/68969621/1ce52e4a-362f-49f2-83f0-216fb2edef37)
