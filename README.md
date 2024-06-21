@@ -1,6 +1,8 @@
 # Zalando Product Matching Challenge
 ## Language: Python
 ### Project Type: Machine Learning (NLP)
+![2](https://github.com/Karincheong/August-2020-WaiLEARN-Female-Employment-Analysis/assets/68969621/7b613dd0-df65-4718-805a-2adfd2b387e7)
+
 In the modern era, customer buying behavior has emerged from 
 physical store purchase to now shopping from digital devices via 
 use of internet technology. All the advanced e-commerce 
