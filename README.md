@@ -26,3 +26,10 @@ targeted to enhance the overall F1 matching score.
 
 ### Keywords : “TF-IDF”, “Cosine Similarity”, “NGrams”, “String Matching”, “Product Matching”, “Text Matching”
 ![1](https://github.com/Karincheong/August-2020-WaiLEARN-Female-Employment-Analysis/assets/68969621/1ce52e4a-362f-49f2-83f0-216fb2edef37)
+
+
+### Brands with similar names : Zalando: SYCAMORE Skijacke Snowboardjacke oliv VS AboutYou: Skijacke oliv
+![1](https://github.com/Karincheong/August-2020-WaiLEARN-Female-Employment-Analysis/assets/68969621/b88c57f0-48bd-46a6-b272-126be44d25a8)
+
+### Products with similar description and similarity %
+![1](https://github.com/Karincheong/August-2020-WaiLEARN-Female-Employment-Analysis/assets/68969621/30dc4639-a198-468a-9b8c-9cba4750e223)
